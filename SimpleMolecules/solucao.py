@@ -1,6 +1,5 @@
 a, b, c = map(int, input().split())
 
-# declare integer sum
 
 total = a  + b + c
 

@@ -8,4 +8,4 @@
 
 # Logs de submissões
 
-![LogsSubmissao]()
+![LogsSubmissao](./assets/SubMissionLogs.png)
