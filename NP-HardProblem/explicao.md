@@ -1,6 +1,6 @@
 # Link do problema:
 
-- [Simple Molecules](https://codeforces.com/problemset/problem/687/A)
+- [NP-HardProblem](https://codeforces.com/problemset/problem/687/A)
 
 # Explicação do desafio:
 

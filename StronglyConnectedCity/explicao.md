@@ -1,6 +1,6 @@
 # Link do problema:
 
-- [Simple Molecules](https://codeforces.com/group/ibNhxWfOek/contest/341358/problem/J)
+- [StronglyConnectedCity](https://codeforces.com/group/ibNhxWfOek/contest/341358/problem/J)
 
 # Explicação do desafio:
 
