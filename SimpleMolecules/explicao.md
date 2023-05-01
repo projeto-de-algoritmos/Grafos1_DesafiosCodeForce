@@ -5,3 +5,7 @@
 # Explicação do desafio:
 
 ![Simple Molecules](./assets/SimpleMolecules.png)
+
+# Logs de submissões
+
+![LogsSubmissao](./assets/LogExercA.png)
