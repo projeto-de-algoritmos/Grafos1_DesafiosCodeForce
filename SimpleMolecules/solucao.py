@@ -1,11 +1,11 @@
-a, b, c = sorted(map(int, input().split()))
+a, b, c = map(int, input().split())
 
 # declare integer sum
 
-sum = a  + b + c
+total = a  + b + c
 
-if (sum % 2 == 0):
-  sum = sum / 2
+if (total % 2 == 0):
+  sum = total / 2
   
   x = sum - c
   y = sum - a
@@ -14,8 +14,8 @@ if (sum % 2 == 0):
   if (x >= 0 and y >= 0 and z >= 0):
     print(int(x), int(y), int(z))
   else:
-    print("Impossible\n")
+    print("Impossible")
 else:
-  print("Impossible\n")
+  print("Impossible")
 
 
