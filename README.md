@@ -40,6 +40,7 @@ Esse projeto busca aplicar os conhecimentos adquiridos na matéria de Projeto de
 ### Exercício 4 - [Web of Lies](https://codeforces.com/contest/1549/problem/C)
 
 - Descrição do problema:
+
 ![Web of Lies](./WebOfLies/assets/WebOfLies.png)
 
 - Logs de submissão:
@@ -65,7 +66,7 @@ Para submeter as resoluções dos exercicíos basta seguir os passos abaixo:
 
 ## Outros 
 O vídeo pode ser acessado através do
-[link]()
+[link](https://youtu.be/pNvazknntP4)
 
 
 
