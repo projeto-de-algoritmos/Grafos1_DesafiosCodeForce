@@ -4,7 +4,7 @@
 
 # Explicação do desafio:
 
-![Simple Molecules](./assets/WebOfLies.png)
+![Simple Molecules](./assets/CyclicComponents.png)
 
 # Logs de submissões
 
